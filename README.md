@@ -10,6 +10,4 @@ Skills: ANDROID DEV / FLUTTER / NODE / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-ya&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/yash-ya)  
-
 ![Profile views](https://gpvc.arturio.dev/yash-ya)  
