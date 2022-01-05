@@ -1,7 +1,4 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Yash
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a final-year CSE student at DTU. I am from Delhi India, and currently working as an SDE intern at Fareportal. 
 
