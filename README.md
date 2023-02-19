@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Yash
 
-I'm a final-year CSE student at DTU. I am from Delhi India, and currently working as an SDE intern at Fareportal. 
-
 Skills: ANDROID DEV / FLUTTER / NODE / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
